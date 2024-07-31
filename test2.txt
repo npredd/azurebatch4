@@ -1,3 +1,7 @@
 this is firstline
 this is secondline
+<<<<<<< HEAD
 this is fourhline
+=======
+this is thirdline
+>>>>>>> c1dc03672f085425af6978a4582b16258c21b8b2
